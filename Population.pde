@@ -1,0 +1,10 @@
+class Population {
+  
+  void NaturalSelection(){
+    
+  }
+  
+  
+  
+  
+}
